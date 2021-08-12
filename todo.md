@@ -12,6 +12,7 @@ This is not a list of priorities or promises.
 
 ### kbmount
 
+* P0: Move 5V, MOSI pins one over, remove reset pin
 * make 5v tracks thicker
 * add Pro-Micro sized PTC fuse (1206?)
 * add current control diode (0603?)
