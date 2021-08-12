@@ -1,5 +1,7 @@
 # Things to do at some point
 
+This is not a list of priorities or promises.
+
 ## Shared
 
 * docs on [installing firmware](docs/firmware.md)
@@ -11,9 +13,9 @@
 ### kbmount
 
 * make 5v tracks thicker
-* add Pro-Micro sized PTC fuse
-* add current diode
-* make USB-C version
+* add Pro-Micro sized PTC fuse (1206?)
+* add current control diode (0603?)
+* make separate USB-C version
 * make simple guide for building based on existing pro-micro boards
   * tools list
   * extra parts list
