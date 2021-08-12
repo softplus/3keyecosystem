@@ -116,7 +116,7 @@ Pins:
 
 ## Kai
 
-### Kai01
+### Kai6
 
 Layout: [EasyEDA](https://easyeda.com/editor#id=?)
 
@@ -146,7 +146,7 @@ Also
 * MISO    // mcu-pin-11 / PB3           // Arduino D14
 * SCK     // mcu-pin-09 / PB1           // Arduino D15
 
-## "Clickers"
+## 1-key keyboards
 
 From https://github.com/softplus/clickers/blob/main/boards.md 
 

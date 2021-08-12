@@ -1,5 +1,6 @@
 # kbmount - a modular macro-keyboard base board
 
+![](board.png)
 
 ## Pins
 
@@ -8,7 +9,7 @@ Left/Top:
 1. GND
 2. GND
 
-Top:
+Top row:
 
 1. VCC (+5v via USB, no regulator)
 2. MOSI // mcu-pin-10 / PB2 // Arduino D16
@@ -21,7 +22,7 @@ Top:
 9. mcu-pin-21 / PD3 // Arduino D1
 10. mcu-pin-19 / PD1 // Arduino D2
 
-Lower:
+Lower row:
 
 1. MISO // mcu-pin-11 / PB3 // Arduino D14
 2. SCK // mcu-pin-09 / PB1 // Arduino D15
@@ -47,7 +48,12 @@ Right/Bottom:
 
 1. GND
 
+## Hardware
+
+* Various parts :-)
+
 ## Links
 
-* [EasyEDA](#)
-* [Gerber](#)
+* [Schematic](schematic.pdf)
+* [EasyEDA v1](https://easyeda.com/editor#id=f628803081e241f58fbca507a0f69ea2)
+* [Gerber files v1](gerber.zip)
