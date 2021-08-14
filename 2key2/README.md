@@ -1,5 +1,9 @@
 # 2key2 - a 2-key, 2-WS2812B keyboard for 3-key-ecosystem
 
+Hardware status: in redesign :-/
+
+QMK status: working, not submitted to QMK yet
+
 ![](board.png)
 
 ![](photo.jpg)

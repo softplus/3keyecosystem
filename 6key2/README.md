@@ -1,5 +1,9 @@
 # 6key2 - a 3x2-key, 6-WS2812B keyboard for 3-key-ecosystem
 
+Hardware status: in redesign :-/
+
+QMK status: working, not cleaned up
+
 ![](board.png)
 
 Requires [kbmount](../kbmount/) base plate
@@ -12,7 +16,7 @@ Switch types supported:
 
 ## Pins
 
-Left/Top: 
+Left/Top:
 
 1. GND
 2. GND
@@ -40,10 +44,10 @@ Right/Bottom:
 * 6x Diode 1N4148, size SOD123 (or jump with 0R resistor 0805)
 * 6x WS2812B 2020
 * 6x Capacitor 100nF (0.1uF), size 0603
-* 
+
 ## Links
 
-* [QMK keyboard](https://github.com/softplus/3keyecosystem-qmk/tree/main/2key1)
+* [QMK keyboard](https://github.com/softplus/3keyecosystem-qmk/tree/main/6key2)
 * [Schematic](schematic.pdf)
 * [EasyEDA v1](https://easyeda.com/account/project/setting/basic?project=eee831f5fb224de28f7dd55678126e91)
 * [Gerber files v1](gerber.zip)

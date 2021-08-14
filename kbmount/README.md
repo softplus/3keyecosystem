@@ -2,6 +2,8 @@
 
 ![](board.png)
 
+Status: in redesign :-/
+
 ## Pins
 
 Left/Top: 

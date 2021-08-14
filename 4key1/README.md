@@ -1,5 +1,9 @@
 # 4key1 - a 2x2-key, 4-LED keyboard for 3-key-ecosystem
 
+Hardware status: in redesign :-/
+
+QMK status: working, not cleaned up
+
 ![](board.png)
 
 Requires [kbmount](../kbmount/) base plate
@@ -12,7 +16,7 @@ Switch types supported:
 
 ## Pins
 
-Left/Top: 
+Left/Top:
 
 1. GND
 2. GND
@@ -42,7 +46,7 @@ Right/Bottom:
 
 ## Links
 
-* [QMK keyboard](https://github.com/softplus/3keyecosystem-qmk/tree/main/2key1)
+* [QMK keyboard](https://github.com/softplus/3keyecosystem-qmk/tree/main/4key1)
 * [Schematic](schematic.pdf)
 * [EasyEDA v1](https://easyeda.com/account/project/setting/basic?project=ddb5d2dfa4ea4dcbadc4e1aa57231959)
 * [Gerber files v1](gerber.zip)

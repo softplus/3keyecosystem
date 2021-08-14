@@ -1,5 +1,9 @@
 # 2key1 - a 2-key, 2-LED keyboard for 3-key-ecosystem
 
+Hardware status: in redesign :-/
+
+QMK status: working, not cleaned up
+
 ![](board.png)
 
 ![](photo.jpg)

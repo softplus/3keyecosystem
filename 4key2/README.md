@@ -1,5 +1,9 @@
 # 4key2 - a 2x2-key, 4-WS2812B keyboard for 3-key-ecosystem
 
+Hardware status: in redesign :-/
+
+QMK status: working, not cleaned up
+
 ![](board.png)
 
 Requires [kbmount](../kbmount/) base plate
@@ -43,7 +47,7 @@ Right/Bottom:
 * 
 ## Links
 
-* [QMK keyboard](https://github.com/softplus/3keyecosystem-qmk/tree/main/2key1)
+* [QMK keyboard](https://github.com/softplus/3keyecosystem-qmk/tree/main/4key2)
 * [Schematic](schematic.pdf)
 * [EasyEDA v1](https://easyeda.com/account/project/setting/basic?project=eee831f5fb224de28f7dd55678126e91)
 * [Gerber files v1](gerber.zip)
