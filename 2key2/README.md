@@ -2,6 +2,8 @@
 
 ![](board.png)
 
+![](photo.jpg)
+
 Requires [kbmount](../kbmount/) base plate
 
 Switch types supported:

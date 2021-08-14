@@ -12,11 +12,8 @@ This is not a list of priorities or promises.
 
 ### kbmount
 
-* P0: Move 5V, MOSI pins one over, remove reset pin
-* make 5v tracks thicker
-* add Pro-Micro sized PTC fuse (1206?)
-* add current control diode (0603?)
-* make separate USB-C version
+* P0: Redo all keyboard boards for new pin layout
+*  add current control diode (0603?)
 * make simple guide for building based on existing pro-micro boards
   * tools list
   * extra parts list
@@ -71,6 +68,11 @@ This is not a list of priorities or promises.
 * Made todo file
 
 ## Hardware
+
+* kbmount: make 5v tracks thick
+* kbmount: add Pro-Micro sized PTC fuse (1206?)
+* kbmount: Swap 5v / reset pins, remove reset pin
+* kbmount: make separate USB-C version
 
 ## Arduino code
 
