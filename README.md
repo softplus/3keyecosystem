@@ -15,6 +15,10 @@ Author/copyright: github.com/softplus (johnmu.com)
 
 Feel free to reuse, tweak, make something cool.
 
+Sample board:
+
+![](/2key2/photo.jpg)
+
 ## Devices
 
 * Modular mount
