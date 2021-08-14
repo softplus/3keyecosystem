@@ -1,5 +1,7 @@
 # Compilation of all devices FWIW
 
+Status: draft
+Todo: point at devices instead of documenting here
 
 ## kbmount
 

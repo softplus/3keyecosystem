@@ -13,7 +13,7 @@ This is not a list of priorities or promises.
 ### kbmount
 
 * P0: Redo all keyboard boards for new pin layout
-*  add current control diode (0603?)
+* add current control diode (0603?)
 * make simple guide for building based on existing pro-micro boards
   * tools list
   * extra parts list
@@ -27,19 +27,30 @@ This is not a list of priorities or promises.
 
 ### 6key
 
+* redo connection for kbmount r2
 * make pcb with pins on side too (2x3 and 3x2 boards)
 * make mounter PCB for right/top side
 
 ### 4key
 
+* redo connection for kbmount r2
+
 ### 2key
+
+* redo connection for kbmount r2
 
 ### the-touchy-one
 
+* upload stuff
 * redesign board for easy touch-pad
 
 ### the-feely-one
 
+* upload stuff
+
+### one-offs
+
+* upload stuff
 
 ## Standalone Arduino code
 

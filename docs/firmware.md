@@ -1,5 +1,7 @@
 # Firmware notes
 
+Status: draft
+
 Before installing the Caterina firmware, check that the device works.
 
 ## Checking basic hardware functionality

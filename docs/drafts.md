@@ -1,7 +1,8 @@
 # Random infos for clickers
 
-## Links
+Status: draft, obviously
 
+## Links
 
 ## Command lines
 
