@@ -1,12 +1,12 @@
 # 4key1 - a 2x2-key, 4-LED keyboard for 3-key-ecosystem
 
-Hardware status: in redesign :-/
+Hardware status: ok
 
 QMK status: working, not cleaned up
 
 ![](board.png)
 
-Requires [kbmount](../kbmount/) base plate
+Requires [kbmount](../kbmount/) C/A rev.2+ base plate
 
 Switch types supported:
 
@@ -23,16 +23,15 @@ Left/Top:
 
 Top:
 
-1. VCC (not used) -> VCC
-2. LED1 -> PB2 / D16
-3. RESET (not used) -> RESET
-4. COL1 -> PF4 / D21 / A3
-5. ROW1 -> PF6 / D19 / A1
-6. ROW2 -> PC6 / D5
-7. LED3 -> PB5 / D9
-8. COL2 -> PD7 / D6
-9. LED2 -> PD3 / D1
-10. LED4 -> PD1 / D2
+1. LED1 -> PB2 / D16
+2. VCC (not used) -> VCC
+3. COL1 -> PF4 / D21 / A3
+4. ROW1 -> PF6 / D19 / A1
+5. ROW2 -> PC6 / D5
+6. LED3 -> PB5 / D9
+7. COL2 -> PD7 / D6
+8. LED2 -> PD3 / D1
+9. LED4 -> PD1 / D2
 
 Right/Bottom:
 
@@ -48,5 +47,5 @@ Right/Bottom:
 
 * [QMK keyboard](https://github.com/softplus/3keyecosystem-qmk/tree/main/4key1)
 * [Schematic](schematic.pdf)
-* [EasyEDA v1](https://easyeda.com/account/project/setting/basic?project=ddb5d2dfa4ea4dcbadc4e1aa57231959)
-* [Gerber files v1](gerber.zip)
+* [EasyEDA](https://easyeda.com/account/project/setting/basic?project=ddb5d2dfa4ea4dcbadc4e1aa57231959)
+* [Gerber files](gerber.zip)
