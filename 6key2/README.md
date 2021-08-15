@@ -50,3 +50,4 @@ Right/Bottom:
 * [Schematic](schematic.pdf)
 * [EasyEDA](https://easyeda.com/account/project/setting/basic?project=eee831f5fb224de28f7dd55678126e91)
 * [Gerber files](gerber.zip)
+* Sidemount: [board](board-side.png) / [gerbers](gerber-side.zip)
