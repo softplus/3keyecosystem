@@ -12,8 +12,6 @@ This is not a list of priorities or promises.
 
 ### kbmount
 
-* P0: Redo all keyboard boards for new pin layout
-* add current control diode (0603?)
 * make simple guide for building based on existing pro-micro boards
   * tools list
   * extra parts list
@@ -37,7 +35,7 @@ This is not a list of priorities or promises.
 
 ### 2key
 
-* redo connection for kbmount r2
+* 2key1: redo connection for kbmount r2
 
 ### the-touchy-one
 
@@ -83,6 +81,8 @@ This is not a list of priorities or promises.
 * kbmount: Swap 5v / reset pins, remove reset pin
 * kbmount: make separate USB-C version
 * kai6: readme, gerbers, photo, qmk
+* skip kbmount: add current control diode (0603?)
+* 2key1: redo connection for kbmount r2
 
 ## Arduino code
 
