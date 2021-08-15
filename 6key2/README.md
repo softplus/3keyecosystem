@@ -6,7 +6,7 @@ QMK status: working, not cleaned up
 
 ![](board.png)
 
-Requires [kbmount](../kbmount/) base plate
+Requires [kbmount](../kbmount/) C/A rev.2+ base plate
 
 Switch types supported:
 
@@ -40,7 +40,7 @@ Right/Bottom:
 ## Hardware
 
 * 6x Switches
-* 6x Diode 1N4148, size SOD123 (or jump with 0R resistor 0805)
+* 6x Diode 1N4148, size SOD123
 * 6x WS2812B 2020
 * 6x Capacitor 100nF (0.1uF), size 0603
 

@@ -40,7 +40,7 @@ Right/Bottom:
 ## Hardware
 
 * 4x Switches
-* 4x Diode 1N4148, size SOD123 (or jump with 0R resistor 0805)
+* 4x Diode 1N4148, size SOD123
 * 4x Resistor 0603 for LED, eg 330R
 
 ## Links
