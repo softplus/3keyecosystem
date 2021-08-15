@@ -1,6 +1,6 @@
 # 2key1 - a 2-key, 2-LED keyboard for 3-key-ecosystem
 
-Hardware status: in redesign :-/
+Hardware status: ok
 
 QMK status: working, not cleaned up
 
@@ -8,7 +8,7 @@ QMK status: working, not cleaned up
 
 ![](photo.jpg)
 
-Requires [kbmount](../kbmount/) base plate
+Requires [kbmount](../kbmount/) C/A rev2+ base plate
 
 Switch types supported:
 
@@ -25,16 +25,15 @@ Left/Top:
 
 Top:
 
-1. VCC (not used) -> VCC
-2. LED1 -> PB2 / D16
-3. RESET (not used) -> RESET
-4. COL1 -> PF4 / D21 / A3
-5. ROW1 -> PF6 / D19 / A1
-6. (not used) -> PC6 / D5
-7. (not used) -> PB5 / D9
-8. COL2 -> PD7 / D6
-9. LED2 -> PD3 / D1
-10. (not used) -> PD1 / D2
+1. LED1 -> PB2 / D16
+2. VCC (not used) -> VCC
+3. COL1 -> PF4 / D21 / A3
+4. ROW1 -> PF6 / D19 / A1
+5. (not used) -> PC6 / D5
+6. (not used) -> PB5 / D9
+7. COL2 -> PD7 / D6
+8. LED2 -> PD3 / D1
+9. (not used) -> PD1 / D2
 
 Right/Bottom:
 

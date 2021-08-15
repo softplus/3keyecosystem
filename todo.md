@@ -35,8 +35,6 @@ This is not a list of priorities or promises.
 
 ### 2key
 
-* 2key1: redo connection for kbmount r2
-
 ### the-touchy-one
 
 * upload stuff
@@ -67,7 +65,6 @@ This is not a list of priorities or promises.
 * webusb integration
 * default device types
 
-
 # Done
 
 ## Shared
@@ -83,6 +80,7 @@ This is not a list of priorities or promises.
 * kai6: readme, gerbers, photo, qmk
 * skip kbmount: add current control diode (0603?)
 * 2key1: redo connection for kbmount r2
+* 2key2: redo connection for kbmount r2
 
 ## Arduino code
 
