@@ -42,6 +42,7 @@ Sample board:
 Random text files
 
 * [Devices](docs/devices.md)
+* [USB VID/PID codes](docs/pid-codes.md)
 * [To-do list](todo.md)
 
 Also check out my [blog posts](https://johnmu.com/categories/keyboard/).
