@@ -1,11 +1,42 @@
 # Compilation of all devices FWIW
 
 Status: draft
-Todo: point at devices instead of documenting here
 
 ## kbmount
 
-### Base station v01
+### Base station kbmount rev 2
+
+Layout: [EasyEDA](https://easyeda.com/editor#id=f628803081e241f58fbca507a0f69ea2)
+
+Pins: 
+
+* Status LED: mcu-pin-12 / PB7          // Arduino D11
+
+Breakout row 1: 
+
+* MOSI    // mcu-pin-10 / PB2           // Arduino D16
+* VCC / +5v
+* A3      // mcu-pin-39 / PF4 / ADC4    // Arduino D21 / A3
+* A1      // mcu-pin-37 / PF6 / ADC6    // Arduino D19 / A1
+* D5      // mcu-pin-31 / PC6           // Arduino D5
+* D9      // mcu-pin-29 / PB5           // Arduino D9
+* D6      // mcu-pin-27 / PD7 / ADC10   // Arduino D6
+* D1      // mcu-pin-21 / PD3           // Arduino D1
+* D2      // mcu-pin-19 / PD1           // Arduino D2
+
+Breakout row 2:
+
+* MISO    // mcu-pin-11 / PB3           // Arduino D14
+* SCK     // mcu-pin-09 / PB1           // Arduino D15
+* A2      // mcu-pin-38 / PF5 / ADC5    // Arduino D20
+* A0      // mcu-pin-36 / PF7 / ADC7    // Arduino D18
+* D10     // mcu-pin-30 / PB6 / ADC13   // Arduino D10
+* D8      // mcu-pin-28 / PB4 / ADC11   // Arduino D8
+* D4      // mcu-pin-25 / PD4 / ADC8    // Arduino D4
+* D0      // mcu-pin-29 / PB5 / ADC12   // Arduino D0
+* D3      // mcu-pin-18 / PD0           // Arduino D3
+
+### Base station kbmount rev 1
 
 Layout: [EasyEDA](https://easyeda.com/editor#id=f628803081e241f58fbca507a0f69ea2)
 
@@ -38,69 +69,6 @@ Breakout row 2:
 * D4      // mcu-pin-25 / PD4 / ADC8    // Arduino D4
 * D0      // mcu-pin-29 / PB5 / ADC12   // Arduino D0
 * D3      // mcu-pin-18 / PD0           // Arduino D3
-
-### 2-key + LED (2key1) v01
-
-Layout: [EasyEDA](https://easyeda.com/editor#id=6b24a128ba4740b6b5e9942bfe6ee795)
-
-Pins:
-
-* Col 1: A3   // mcu-pin-39 / PF4 / ADC4
-* LED 1: MOSI // mcu-pin-10 / PB2 
-* Col 2: D6   // mcu-pin-27 / PD7 / ADC10
-* LED 2: D1   // mcu-pin-21 / PD3
-* Row 1: A1   // mcu-pin-37 / PF6 / ADC6
-
-### 2-key + WS2812B (2key2) v01
-
-Layout: [EasyEDA](https://easyeda.com/editor#id=99b87c081baa4b6ebea86514403502c0)
-
-Pins:
-
-* Col 1: A3   // mcu-pin-39 / PF4 / ADC4
-* LEDs: MOSI  // mcu-pin-10 / PB2  
-* Col 2: D6   // mcu-pin-27 / PD7 / ADC10
-* Row 1: A1   // mcu-pin-37 / PF6 / ADC6
-
-### 4-key + LEDs (4key1) v01
-
-Layout: [EasyEDA](https://easyeda.com/editor#id=7a88a68e99c047d086707024e36c74ea)
-
-Pins:
-
-* Col 1: A3   // mcu-pin-39 / PF4 / ADC4
-* Col 2: D6   // mcu-pin-27 / PD7 / ADC10
-* Row 1: A1   // mcu-pin-37 / PF6
-* Row 2: D5   // mcu-pin-31 / PC6 
-* LED 1: MOSI // mcu-pin-10 / PB2  
-* LED 2: D1   // mcu-pin-21 / PD3
-* LED 3: D9   // mcu-pin-29 / PB5
-* LED 4: D2   // mcu-pin-19 / PD1
-
-### 4-key + WS2812 (4key2) v01
-
-Layout: [EasyEDA](https://easyeda.com/editor#id=d1e8a80b96f24108af61bd66a0b2b66a)
-
-Pins:
-
-* Col 1: A3   // mcu-pin-39 / PF4 / ADC4
-* Col 2: D6   // mcu-pin-27 / PD7 / ADC10
-* Row 1: A1   // mcu-pin-37 / PF6
-* Row 2: D5   // mcu-pin-31 / PC6 
-* LEDs:  MOSI // mcu-pin-10 / PB2  
-
-### 6-key + WS2812B (6key2) v01
-
-Layout: [EasyEDA](https://easyeda.com/editor#id=9c8eb80f2fad49589a61e6b9125c3820)
-
-Pins:
-
-* Col 1: A3   // mcu-pin-39 / PF4 / ADC4
-* Col 2: D6   // mcu-pin-27 / PD7 / ADC10
-* Col 3: D1   // mcu-pin-21 / PD3
-* Row 1: A1   // mcu-pin-37 / PF6
-* Row 2: D5   // mcu-pin-31 / PC6 
-* LEDs:  MOSI // mcu-pin-10 / PB2  
 
 ## Touch
 

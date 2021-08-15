@@ -25,8 +25,6 @@ This is not a list of priorities or promises.
 
 ### 6key
 
-* make sideboard mount PCB for right/top side
-
 ### 4key
 
 ### 2key
@@ -80,7 +78,8 @@ This is not a list of priorities or promises.
 * 6key2: redo connection for kbmount r2
 * 4key1: redo connection for kbmount r2
 * 4key2: redo connection for kbmount r2
-* 6key2: make pcb with pins on side too (2x3 and 3x2 boards)
+* 6key2: pcb with pins on side too (2x3 and 3x2 boards)
+* 6key2: sideboard mount PCB for right/top side
 
 ## Arduino code
 
