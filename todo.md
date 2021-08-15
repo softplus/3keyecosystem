@@ -25,15 +25,9 @@ This is not a list of priorities or promises.
 
 ### 6key
 
-* 6key2: redo connection for kbmount r2
-* make sideboard stand
-* make pcb with pins on side too (2x3 and 3x2 boards)
-* make mounter PCB for right/top side
+* make sideboard mount PCB for right/top side
 
 ### 4key
-
-* 4key1: redo connection for kbmount r2
-* 4key2: redo connection for kbmount r2
 
 ### 2key
 
@@ -83,6 +77,10 @@ This is not a list of priorities or promises.
 * skip kbmount: add current control diode (0603?)
 * 2key1: redo connection for kbmount r2
 * 2key2: redo connection for kbmount r2
+* 6key2: redo connection for kbmount r2
+* 4key1: redo connection for kbmount r2
+* 4key2: redo connection for kbmount r2
+* 6key2: make pcb with pins on side too (2x3 and 3x2 boards)
 
 ## Arduino code
 

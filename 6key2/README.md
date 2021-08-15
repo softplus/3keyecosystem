@@ -1,6 +1,6 @@
-# 6key2 - a 3x2-key, 6-WS2812B keyboard for 3-key-ecosystem
+# 6key2 - a 3x2 & 2x3-key, 6-WS2812B keyboard for 3-key-ecosystem
 
-Hardware status: in redesign :-/
+Hardware status: ok
 
 QMK status: working, not cleaned up
 
@@ -21,18 +21,17 @@ Left/Top:
 1. GND
 2. GND
 
-Top:
+Top and side:
 
-1. VCC (not used) -> VCC
-2. WS2812B DI -> PB2 / D16
-3. RESET (not used) -> RESET
-4. COL1 -> PF4 / D21 / A3
-5. ROW1 -> PF6 / D19 / A1
-6. ROW2 -> PC6 / D5
-7. (not used) -> PB5 / D9
-8. COL2 -> PD7 / D6
-9. COL3 -> PD3 / D1
-10. (not used) -> PD1 / D2
+1. WS2812B DI -> PB2 / D16
+2. VCC -> VCC
+3. COL1 -> PF4 / D21 / A3
+4. ROW1 -> PF6 / D19 / A1
+5. ROW2 -> PC6 / D5
+6. COL2 -> PB5 / D9
+7. COL3 -> PD7 / D6
+8. GND
+9. GND
 
 Right/Bottom:
 
@@ -49,5 +48,5 @@ Right/Bottom:
 
 * [QMK keyboard](https://github.com/softplus/3keyecosystem-qmk/tree/main/6key2)
 * [Schematic](schematic.pdf)
-* [EasyEDA v1](https://easyeda.com/account/project/setting/basic?project=eee831f5fb224de28f7dd55678126e91)
-* [Gerber files v1](gerber.zip)
+* [EasyEDA](https://easyeda.com/account/project/setting/basic?project=eee831f5fb224de28f7dd55678126e91)
+* [Gerber files](gerber.zip)
