@@ -50,8 +50,6 @@ This is not a list of priorities or promises.
 
 ### one-offs
 
-* upload stuff
-
 ## Standalone Arduino code
 
 * Add Arduino code
@@ -84,6 +82,7 @@ This is not a list of priorities or promises.
 * kbmount: add Pro-Micro sized PTC fuse (1206?)
 * kbmount: Swap 5v / reset pins, remove reset pin
 * kbmount: make separate USB-C version
+* kai6: readme, gerbers, photo, qmk
 
 ## Arduino code
 
