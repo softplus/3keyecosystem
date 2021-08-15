@@ -2,6 +2,8 @@
 
 3-Key-Ecosystem group of keyboards
 
+Using open-source VID code from https://pid.codes/
+
 VID 1209 ( https://pid.codes/1209/ )
 
 ## QMK-Devices
