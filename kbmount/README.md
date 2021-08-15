@@ -56,8 +56,11 @@ Right/Bottom:
 
 ## Links
 
-* Schematic: [USB-C version](kbmount-C/schematic.pdf) 
-  / [USB-A version](kbmount-A/schematic.pdf)
+* Schematic: [USB](kbmount-C/schematic.pdf) 
+  / [USB-A](kbmount-A/schematic.pdf)
+
 * EasyEDA: [USB-C](https://easyeda.com/editor#id=f628803081e241f58fbca507a0f69ea2)
-* Gerber files: [USB-C version](kbmount-C/gerber.zip) 
-  / [USB-A version](kbmount-A/gerber.zip)
+  / [USB-A](#)
+
+* Gerber files: [USB-C](kbmount-C/gerber.zip) 
+  / [USB-A](kbmount-A/gerber.zip)
