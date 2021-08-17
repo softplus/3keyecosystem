@@ -10,7 +10,7 @@ QMK status: working, not submitted to QMK yet
 
 Requires [kbmount](../kbmount/) C/A rev.2+ base plate
 
-USB VID/PID: 1209 / 3304 (pending)
+USB VID/PID: [0x1209 / 0x3304](https://pid.codes/1209/3304/)
 
 Switch types supported:
 
@@ -20,7 +20,7 @@ Switch types supported:
 
 ## Pins
 
-Left/Top: 
+Left/Top:
 
 1. GND
 2. GND
@@ -47,10 +47,11 @@ Right/Bottom:
 * 2x Diode 1N4148, size SOD123 (or jump with 0R resistor 0805)
 * 2x WS2812B 2020
 * 2x Capacitor 100nF (0.1uF), size 0603
- 
+
 ## Links
 
 * [QMK keyboard](https://github.com/softplus/3keyecosystem-qmk/tree/main/2key2)
 * [Schematic](schematic.pdf)
 * [EasyEDA](https://easyeda.com/editor#id=f02851dca3144e32a231e3b39103f030)
 * [Gerber files](gerber.zip)
+* EasyEDA JSON files: [PCB](easyeda-pcb.json) / [Schematic](easyeda-schematic.json)
