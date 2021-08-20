@@ -52,3 +52,7 @@ Right/Bottom:
   / [sidemount](https://easyeda.com/editor#id=b84796d454ab4c84848290706b596876)
 * [Gerber files](gerber.zip)
 * Sidemount: [board](board-side.png) / [gerbers](gerber-side.zip)
+* EasyEDA JSON: [schematic](easyeda-schematic.json)
+  / [PCB](easyeda-pcb.json)
+* EasyEDA Sidemount JSON: [schematic](easyeda-side-schematic.json)
+  / [PCB](easyeda-side-pcb.json)

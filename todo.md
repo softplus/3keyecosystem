@@ -85,7 +85,7 @@ This is not a list of priorities or promises.
 * 2key1: easyeda json files
 * 4key1: easyeda json files
 * 4key2: easyeda json files
-* 
+* 6key2: easyeda json files
 
 ## Arduino code
 
