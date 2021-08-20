@@ -56,9 +56,18 @@ Right/Bottom:
 
 ## Links
 
-* Schematic: [USB](kbmount-C/schematic.pdf)
-  / [USB-A](kbmount-A/schematic.pdf)
+### USB-A
+
+* Schematic: [USB-A](kbmount-A/schematic.pdf)
+* EasyEDA: [USB-A](https://easyeda.com/editor#id=4fe9ac0ac0ab433d97261808a5d28d88)
+* Gerber files: [USB-A](kbmount-A/gerber.zip)
+* EasyEDA JSON: [Schematic](kbmount-A/../../2key2/easyeda-schematic.json) 
+  / [PCB](kbmount-A/easyeda-pcb.json)
+
+### USB-C
+
+* Schematic: [USB-C](kbmount-C/schematic.pdf)
 * EasyEDA: [USB-C](https://easyeda.com/editor#id=669732bc1907417faeabc9041bedee62)
-  / [USB-A](https://easyeda.com/editor#id=4fe9ac0ac0ab433d97261808a5d28d88)
 * Gerber files: [USB-C](kbmount-C/gerber.zip)
-  / [USB-A](kbmount-A/gerber.zip)
+* EasyEDA JSON: [Schematic](kbmount-C/../../2key2/easyeda-schematic.json) 
+  / [PCB](kbmount-C/easyeda-pcb.json)
