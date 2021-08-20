@@ -82,6 +82,7 @@ This is not a list of priorities or promises.
 * 6key2: sideboard mount PCB for right/top side
 * kbmount-A: easyeda JSON files
 * kbmount-C: easyeda JSON files
+* 2key1: easyeda json files
 
 ## Arduino code
 
