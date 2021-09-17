@@ -86,8 +86,9 @@ This is not a list of priorities or promises.
 * 4key1: easyeda json files
 * 4key2: easyeda json files
 * 6key2: easyeda json files
+* 2key, 4key, 6key: refactored organization
+* 2key, 4key, 6key: used same PID/VID per key-count
 
 ## Arduino code
 
 ## Glitch / web page
-
