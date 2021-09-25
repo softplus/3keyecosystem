@@ -22,10 +22,10 @@ Sample board:
 ## Devices
 
 * Modular mount
-  * [kbmount](kbmount/README.md) - Modular ATmega32u4-based keyboard 2U base-board
+  * [kbmount](kbmount/) - Modular ATmega32u4-based keyboard 2U base-board
 * 1-button keyboards
-  * [the-feely-one](the-feely-one/README.md) - 1 button, 2 LEDs
-  * [the-touchy-one](the-touchy-one/README.md) - capacative touch, 4 RGB LEDs
+  * [the-feely-one](1key/the-feely-one/) - 1 button, 2 LEDs
+  * [the-touchy-one](1key/the-touchy-one/) - capacative touch, 4 RGB LEDs
 * 2-button keyboards - built on kbmount
   * [2key1](2key/2key1/) - 2 buttons, simple LEDs
   * [2key2](2key/2key2/) - 2 buttons, RGB LEDs

@@ -70,7 +70,7 @@ Breakout row 2:
 * D0      // mcu-pin-29 / PB5 / ADC12   // Arduino D0
 * D3      // mcu-pin-18 / PD0           // Arduino D3
 
-## Touch
+## 1key / the-touchy-one
 
 ### Tv03
 
@@ -84,39 +84,7 @@ Pins:
 * Button/Touch 2: mcu-pin-39 / PF4 / ADC4 / TCK -> Arduino A3 / D21
 * LEDs (4x WS2812B-2020): mcu-pin-1 / PE6 / INT.6 / AIN0 -> Arduino D7
 
-## Kai
-
-### Kai6
-
-Layout: [EasyEDA](https://easyeda.com/editor#id=?)
-
-Breakout part 1: 
-
-* GND
-* ROW1    // mcu-pin-41 / PF0           // Arduino D23
-* ROW2    // mcu-pin-40 / PF1           // Arduino D22
-* COL1    // mcu-pin-39 / PF4           // Arduino D21
-* COL2    // mcu-pin-38 / PF5           // Arduino D20
-* COL3    // mcu-pin-37 / PF6           // Arduino D19
-* LED1    // mcu-pin-36 / PF7           // Arduino D18
-
-Breakout part 2: 
-
-* GND
-* LED2    // mcu-pin-31 / PC6           // Arduino D5
-* LED3    // mcu-pin-30 / PB6           // Arduino D10
-* LED4    // mcu-pin-29 / PB5           // Arduino D9
-* LED5    // mcu-pin-28 / PB4           // Arduino D8
-* LED6    // mcu-pin-27 / PD7           // Arduino D6
-* NC
-
-Also
-
-* MOSI    // mcu-pin-10 / PB2           // Arduino D16
-* MISO    // mcu-pin-11 / PB3           // Arduino D14
-* SCK     // mcu-pin-09 / PB1           // Arduino D15
-
-## 1-key keyboards
+## 1key / 1-key keyboards
 
 From https://github.com/softplus/clickers/blob/main/boards.md 
 
@@ -175,6 +143,37 @@ Pins: (same as v08R)
 * LED button: mcu-pin-40 / PF1 / ADC1       -> Arduino A4 / D22
 * LED onboard: mcu-pin-37 / PF6 / ADC6 / TD0 -> Arduino A1 / D19
 
+## 6key / Kai6
+
+### Kai6
+
+Layout: [EasyEDA](https://easyeda.com/editor#id=?)
+
+Breakout part 1: 
+
+* GND
+* ROW1    // mcu-pin-41 / PF0           // Arduino D23
+* ROW2    // mcu-pin-40 / PF1           // Arduino D22
+* COL1    // mcu-pin-39 / PF4           // Arduino D21
+* COL2    // mcu-pin-38 / PF5           // Arduino D20
+* COL3    // mcu-pin-37 / PF6           // Arduino D19
+* LED1    // mcu-pin-36 / PF7           // Arduino D18
+
+Breakout part 2: 
+
+* GND
+* LED2    // mcu-pin-31 / PC6           // Arduino D5
+* LED3    // mcu-pin-30 / PB6           // Arduino D10
+* LED4    // mcu-pin-29 / PB5           // Arduino D9
+* LED5    // mcu-pin-28 / PB4           // Arduino D8
+* LED6    // mcu-pin-27 / PD7           // Arduino D6
+* NC
+
+Also
+
+* MOSI    // mcu-pin-10 / PB2           // Arduino D16
+* MISO    // mcu-pin-11 / PB3           // Arduino D14
+* SCK     // mcu-pin-09 / PB1           // Arduino D15
 
 # Notes
 
