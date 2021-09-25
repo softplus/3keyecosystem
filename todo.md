@@ -21,7 +21,7 @@ This is not a list of priorities or promises.
   * add arduino test code
 * possibly: add missing pins
 * possibly: make hardware test harness
-* get vid/hid
+* get vid/hid's
 
 ### 6key
 
@@ -68,11 +68,11 @@ This is not a list of priorities or promises.
 ## Hardware
 
 * kbmount: make 5v tracks thick
-* kbmount: add Pro-Micro sized PTC fuse (1206?)
+* kbmount: add Pro-Micro sized PTC fuse (1206)
 * kbmount: Swap 5v / reset pins, remove reset pin
 * kbmount: make separate USB-C version
 * kai6: readme, gerbers, photo, qmk
-* skip kbmount: add current control diode (0603?)
+* skip kbmount: add current control diode (0603)
 * 2key1: redo connection for kbmount r2
 * 2key2: redo connection for kbmount r2
 * 6key2: redo connection for kbmount r2
@@ -88,6 +88,7 @@ This is not a list of priorities or promises.
 * 6key2: easyeda json files
 * 2key, 4key, 6key: refactored organization
 * 2key, 4key, 6key: used same PID/VID per key-count
+* kbmount: added BOM files
 
 ## Arduino code
 

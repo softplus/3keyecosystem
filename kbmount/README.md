@@ -1,5 +1,7 @@
 # kbmount - a modular macro-keyboard base board
 
+The hardware components are chosen so that they can be repurposed from a [Pro-Micro](https://www.sparkfun.com/products/12640) dev-board.
+
 ![](kbmount-A/board.png)
 
 ![](kbmount-C/board.png)
@@ -50,15 +52,12 @@ Right/Bottom:
 
 1. GND
 
-## Hardware
-
-* Various parts :-)
-
 ## Links
 
 ### USB-A
 
 * Schematic: [USB-A](kbmount-A/schematic.pdf)
+* BOM: [USB-A](kbmount-A/bom.csv)
 * EasyEDA: [USB-A](https://easyeda.com/editor#id=4fe9ac0ac0ab433d97261808a5d28d88)
 * Gerber files: [USB-A](kbmount-A/gerber.zip)
 * EasyEDA JSON: [Schematic](kbmount-A/../../2key2/easyeda-schematic.json) 
@@ -67,7 +66,29 @@ Right/Bottom:
 ### USB-C
 
 * Schematic: [USB-C](kbmount-C/schematic.pdf)
+* BOM: [USB-C](kbmount-C/bom.csv)
 * EasyEDA: [USB-C](https://easyeda.com/editor#id=669732bc1907417faeabc9041bedee62)
 * Gerber files: [USB-C](kbmount-C/gerber.zip)
 * EasyEDA JSON: [Schematic](kbmount-C/../../2key2/easyeda-schematic.json) 
   / [PCB](kbmount-C/easyeda-pcb.json)
+
+## Hardware
+
+The following parts are necessary in addition to a working Pro-Micro board:
+
+USB-A:
+
+* 1x 0603 100nF Capacitor
+* 1x 0603 10k Resistor
+* 1x USB-A micro plug
+* 1x reset switch (2mm x 4mm x 3.5mm side-mounted)
+
+USB-C:
+
+* 1x 0603 100nF Capacitor
+* 1x 0603 10k Resistor
+* 2x 5.1k Resistor
+* 1x USB-C plug
+* 1x reset switch (2mm x 4mm x 3.5mm side-mounted)
+
+If the ATmega32u4 is reused from a Pro-Micro, the ICSP connector is not needed, since it already contains the Caterina firmware.
