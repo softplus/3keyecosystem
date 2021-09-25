@@ -42,7 +42,7 @@ Top/right:
 
 ## Links
 
-* [QMK keyboard](https://github.com/softplus/3keyecosystem-qmk/tree/main/kai6)
+* [QMK keyboard](https://github.com/softplus/3keyecosystem-qmk/tree/main/6key/kai6)
 * [Schematic](#) TBD
 * [EasyEDA](#) TBD
 * Gerber files: [upper](gerber-upper.zip) / [lower](gerber-lower.zip)

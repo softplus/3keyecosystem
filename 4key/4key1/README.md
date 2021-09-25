@@ -45,7 +45,7 @@ Right/Bottom:
 
 ## Links
 
-* [QMK keyboard](https://github.com/softplus/3keyecosystem-qmk/tree/main/4key1)
+* [QMK keyboard](https://github.com/softplus/3keyecosystem-qmk/tree/main/4key/4key1)
 * [Schematic](schematic.pdf)
 * [EasyEDA URL](https://easyeda.com/editor#id=e8a2dfc966d74888a9fb1a99884f2a73)
 * [Gerber files](gerber.zip)

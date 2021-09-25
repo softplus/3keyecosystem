@@ -46,7 +46,7 @@ Right/Bottom:
 
 ## Links
 
-* [QMK keyboard](https://github.com/softplus/3keyecosystem-qmk/tree/main/6key2)
+* [QMK keyboard](https://github.com/softplus/3keyecosystem-qmk/tree/main/6key/6key2)
 * [Schematic](schematic.pdf)
 * [EasyEDA](https://easyeda.com/editor#id=0337f5be63b347af9cc7bd1799a95ee6)
   / [sidemount](https://easyeda.com/editor#id=b84796d454ab4c84848290706b596876)
