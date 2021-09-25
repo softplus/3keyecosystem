@@ -5,6 +5,8 @@ QMK status: ok, not submitted
 
 ![](photo.jpg)
 
+USB VID/PID: (submitted, tbd) 0x1209 / 0x3306
+
 Switch types supported:
 
 * Cherry MX, w/TH LED

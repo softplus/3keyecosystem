@@ -8,6 +8,8 @@ QMK status: working, not cleaned up
 
 Requires [kbmount](../../kbmount/) C/A rev.2+ base plate
 
+USB VID/PID: (submitted, tbd) 0x1209 / 0x3306
+
 Switch types supported:
 
 * Cherry MX, without LED
