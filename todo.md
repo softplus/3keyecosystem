@@ -89,6 +89,7 @@ This is not a list of priorities or promises.
 * 2key, 4key, 6key: refactored organization
 * 2key, 4key, 6key: used same PID/VID per key-count
 * kbmount: added BOM files
+* kbmount: added parts information
 
 ## Arduino code
 
