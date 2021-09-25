@@ -8,7 +8,7 @@ QMK status: working, not cleaned up
 
 ![](photo.jpg)
 
-Requires [kbmount](../kbmount/) C/A rev2+ base plate
+Requires [kbmount](../../kbmount/) C/A rev2+ base plate
 
 Switch types supported:
 

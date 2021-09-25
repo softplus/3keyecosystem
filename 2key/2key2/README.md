@@ -8,7 +8,7 @@ QMK status: working, not submitted to QMK yet
 
 ![](photo.jpg)
 
-Requires [kbmount](../kbmount/) C/A rev.2+ base plate
+Requires [kbmount](../../kbmount/) C/A rev.2+ base plate
 
 USB VID/PID: [0x1209 / 0x3304](https://pid.codes/1209/3304/)
 
