@@ -21,20 +21,27 @@ This is not a list of priorities or promises.
   * add arduino test code
 * possibly: add missing pins
 * possibly: make hardware test harness
-* get vid/hid's
 
 ### 6key
 
+* get pid
+
+#### kai6
+
+* get full easyeda files from backup?
+
 ### 4key
+
+* get pid
 
 ### 2key
 
-### the-touchy-one
+### 1key/the-touchy-one
 
 * upload stuff
 * redesign board for easy touch-pad
 
-### the-feely-one
+### 1key/the-feely-one
 
 * upload stuff
 
@@ -90,6 +97,8 @@ This is not a list of priorities or promises.
 * 2key, 4key, 6key: used same PID/VID per key-count
 * kbmount: added BOM files
 * kbmount: added parts information
+* 4key: request pid
+* 6key: request pid
 
 ## Arduino code
 
