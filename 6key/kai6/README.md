@@ -5,6 +5,10 @@ QMK status: ok, not submitted
 
 ![](photo.jpg)
 
+![](board-main.png)
+
+![](board-key.png)
+
 USB VID/PID: (submitted, tbd) 0x1209 / 0x3306
 
 Switch types supported:
@@ -45,6 +49,8 @@ Top/right:
 ## Links
 
 * [QMK keyboard](https://github.com/softplus/3keyecosystem-qmk/tree/main/6key/kai6)
-* [Schematic](#) TBD
-* [EasyEDA](#) TBD
-* Gerber files: [upper](gerber-upper.zip) / [lower](gerber-lower.zip)
+* Schematic: [mainboard](schematic-main.pdf) / [keyboard](schematic-key.pdf)
+* EasyEDA JSON exports: 
+  * mainboard: [pcb](easyeda-main-pcb.json) / [schematic](easyeda-main-schematic.json)
+  * keyboard: [pcb](easyeda-key-pcb.json) / [schematic](easyeda-key-schematic.json)
+* Gerber files: [mainboard](gerber-main.zip) / [keyboard](gerber-key.zip)
