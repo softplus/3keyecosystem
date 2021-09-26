@@ -24,17 +24,19 @@ This is not a list of priorities or promises.
 
 ### 6key
 
-* get pid
-
-#### kai6
-
-* get full easyeda files from backup?
+* confirm pid
+* submit to qmk
+* submit to via
 
 ### 4key
 
-* get pid
+* confirm pid
+* submit to qmk
+* submit to via
 
 ### 2key
+
+* submit to via
 
 ### 1key/the-touchy-one
 
@@ -99,6 +101,8 @@ This is not a list of priorities or promises.
 * kbmount: added parts information
 * 4key: request pid
 * 6key: request pid
+* kai6: made rev.2 board
+* kai6: added export files
 
 ## Arduino code
 
