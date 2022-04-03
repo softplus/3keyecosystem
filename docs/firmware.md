@@ -81,3 +81,13 @@ However, having it makes it easy to use the Arduino UI for testing.
 With Arduino as ISP programmer, you should use "avrisp" with avrdude AND baudrate of 19200
 
 (This wasn't actually tested, but afaik it's like this)
+
+## Installing Caterina bootloader via Arduino
+
+This is probably easier than above. 
+
+1. In Arduino, select your ISP (I use Arduino ISP on an Uno): Menu Tools / Programmer
+2. Select the Pro Micro as board: Menu Tools / Board / Smartfun AVR Board / Smartfun Pro Micro
+3. Set speed / voltage: Menu Tools / Processor / Atmega32u4 (5V/16MHz)
+4. Menu Tools / Burn Bootloader (this runs the avrdude stuff from above) 
+
