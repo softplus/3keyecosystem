@@ -143,6 +143,16 @@ Pins: (same as v08R)
 * LED button: mcu-pin-40 / PF1 / ADC1       -> Arduino A4 / D22
 * LED onboard: mcu-pin-37 / PF6 / ADC6 / TD0 -> Arduino A1 / D19
 
+### v13 - USB-C
+
+Board ID: CLICKER_V13
+
+Pins: (similar to v08R)
+
+* Button: mcu-pin-39 / PF4 / ADC4 / TCK -> Arduino A3 / D21
+* WS2812 key light: mcu-pin-40 / PF1 / ADC1       -> Arduino A4 / D22
+* LED onboard: mcu-pin-37 / PF6 / ADC6 / TD0 -> Arduino A1 / D19
+
 ## 6key / Kai6
 
 ### Kai6
